@@ -9,3 +9,6 @@ Install python3 (i recommend **python-3.8.6-amd64.exe** version) in your system 
 Now you good to go
 # CONVERT PY INTO EXECUTABLE >
 ** Use pyinstaller and auto-py-to-exe ** , auto-py-to-exe is  GUI based and pyinstaller is manual based.
+# config file >
+fromAddr = 'xxxxxx@gmail.com'
+fromPswd = 'xxxxxxxxx'
