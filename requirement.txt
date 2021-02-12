@@ -1,0 +1,8 @@
+pynput
+win32gui
+os
+time
+requests
+socket
+random
+smtplib
